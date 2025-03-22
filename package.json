@@ -1,0 +1,14 @@
+{
+  "name": "my-vercel-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "dependencies": {
+    "@vercel/node": "^2.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
